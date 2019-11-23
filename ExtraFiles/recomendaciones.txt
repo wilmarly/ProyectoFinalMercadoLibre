@@ -1,0 +1,4 @@
+1. numeros, tiempos, estadisticas
+2.adelantarse a las preguntas "me imagino que se estan preguntando como se ingresan los datos"
+3.ejecutable "facilitar las cosas al cliente"
+4.informe mas diciente.
