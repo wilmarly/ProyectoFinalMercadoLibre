@@ -9,4 +9,18 @@
 
 %appData%
 
+https://github.com/davidcarguz/appiumProperties.git
 
+https://github.com/davidcarguz/appiumDriver.git
+
+
+
+{
+  "deviceName": "Mi A3",
+  "udid": "54a25a148d5a",
+  "platformName": "Android",
+  "app": "C:\\Users\\1813484\\Documents\\Automatizaciones\\EjercicioPrubaFinal\\Archivos_dados_cliente\\Six Pack in 30 Days Abs Workout_v1.0.14.apk",
+  "appPackage": "sixpack.sixpackabs.absworkout",
+  "appActivity": "sixpack.sixpackabs.absworkout.activity.StartActivity",
+  "platforrmVersion": "9"
+}
