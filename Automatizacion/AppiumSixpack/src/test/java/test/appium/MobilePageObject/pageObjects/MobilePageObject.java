@@ -19,6 +19,5 @@ public class MobilePageObject extends PageObject {
 			}
 
 		});
-
 	}
 }
